@@ -1,0 +1,15 @@
+{
+  "name": "pavan-ssh",
+  "version": "0.1.0",
+  "author": "Pavan Kumar<savip",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/savipavan/pe204",
+  "project_page": "https://github.com/savipavan/pe204",
+  "issues_url": "https://github.com/savipavan/pe204",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
